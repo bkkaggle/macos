@@ -4,6 +4,15 @@
 
 - 
 
+# dock
+
+- finder
+- chrome
+- mail
+- photos
+- apps
+- settings`
+
 # apps
 
 - chrome
