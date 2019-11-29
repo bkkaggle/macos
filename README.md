@@ -1,5 +1,13 @@
 # macos
 
-# Installation
+# settings
 
+- 
+
+# apps
+
+- chrome
+  - sync
+    - turn off history
+    
 - 
