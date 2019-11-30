@@ -34,6 +34,7 @@
   - font: 16
   - keyboard
     - option as meta key: on
+    
 
 # apps
 
