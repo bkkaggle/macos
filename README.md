@@ -1,4 +1,4 @@
-# macos
+# MacOS
 
 # settings
 
