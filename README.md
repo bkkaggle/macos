@@ -28,12 +28,26 @@
 - mail
 - photos
 - apps
-- settings`
+- settings
+- vscode
+
 
 # apps
+
+- zsh
+  - run `chsh -s /bin/zsh``
 
 - chrome
   - sync
     - turn off history
     
-- 
+- vscode
+
+- iterm2
+
+- git
+  - installer from https://git-scm.com/downloads
+  - `git config --global user.email "bk@tinymanager.com"`
+  - `git config --global user.name "Bilal Khan"`
+  - `git config --global credential.helper osxkeychain`
+  - `git config --global credential.helper 'cache --timeout=84000'`
