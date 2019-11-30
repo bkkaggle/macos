@@ -71,6 +71,9 @@
   - gatsby
     - `npm install -g gatsby-cli`
   
+  - expo
+    - `npm install expo-cli --global`
+
 - conda
   - download latest from https://docs.conda.io/en/latest/miniconda.html
   - `bash Miniconda3-latest-MacOSX-x86_64.sh`
@@ -82,7 +85,7 @@
     - `pip install tensorflow`
     - `conda install pytorch torchvision cpuonly -c pytorch`
     - `conda install pandas scikit-learn pylint`
-    - `pip install scikit-image tqdm mlcrate pytorch_zoo fire pre-commit kaggle`
+    - `pip install scikit-image tqdm mlcrate pytorch_zoo fire pre-commit kaggle twine`
     
     - kaggle api
       - add api token to `/home/bilal/.kaggle/kaggle.json`
@@ -94,3 +97,5 @@
 
 - homebrew
   - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+  
+  - wget: `brew install wget`
