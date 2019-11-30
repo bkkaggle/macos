@@ -31,9 +31,9 @@
 - settings
 - vscode
 - terminal
-    - font: 16
-    - keyboard
-        - option as meta key: on
+  - font: 16
+  - keyboard
+    - option as meta key: on
 
 # apps
 
