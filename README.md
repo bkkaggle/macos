@@ -30,7 +30,10 @@
 - apps
 - settings
 - vscode
-
+- terminal
+    - font: 16
+    - keyboard
+        - option as meta key: on
 
 # apps
 
@@ -42,8 +45,7 @@
     - turn off history
     
 - vscode
-
-- iterm2
+    - get settings from settings sync
 
 - git
   - installer from https://git-scm.com/downloads
@@ -82,15 +84,12 @@
     - `pip install scikit-image tqdm mlcrate pytorch_zoo fire pre-commit kaggle`
     
     - kaggle api
-      - TODO: add api token to `/home/bilal/.kaggle/kaggle.json`
+      - add api token to `/home/bilal/.kaggle/kaggle.json`
     
     - gcloud (system python)
       - download from https://cloud.google.com/sdk/docs/
       - `./google-cloud-sdk/install.sh`
       - `gcloud init`
-      
- 
-      
 
 - homebrew
   - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
