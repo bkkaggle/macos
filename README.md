@@ -81,7 +81,7 @@
     - `conda create -n pytorch python=3.7`
     - `pip install tensorflow`
     - `conda install pytorch torchvision cpuonly -c pytorch`
-    - `conda install pandas scikit-learn`
+    - `conda install pandas scikit-learn pylint`
     - `pip install scikit-image tqdm mlcrate pytorch_zoo fire pre-commit kaggle`
     
     - kaggle api
