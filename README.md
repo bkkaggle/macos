@@ -34,7 +34,6 @@
   - font: 16
   - keyboard
     - option as meta key: on
-    
 
 # apps
 
@@ -94,6 +93,10 @@
       - download from https://cloud.google.com/sdk/docs/
       - `./google-cloud-sdk/install.sh`
       - `gcloud init`
+      
+      - proxy: 
+        - `curl -o cloud_sql_proxy https://dl.google.com/cloudsql/cloud_sql_proxy.darwin.amd64`
+        - `chmod +x cloud_sql_proxy`
 
 - homebrew
   - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
