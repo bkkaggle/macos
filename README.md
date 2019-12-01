@@ -108,3 +108,12 @@
   - download xcode and developer tools
   - follow https://www.devsbedevin.net/vscode-debugging-c-cpp-code-on-macos-catalina/ for debugging
   - `brew install cmake`
+
+
+- ssh
+  - disable ports and no password logins
+  - follow https://www.ssh.com/ssh/copy-id
+  - `ssh-keygen`
+  - `ssh-copy-id -i ~/.ssh/mykey user@host`
+  - `ssh -i ~/.ssh/mykey user@host`
+  - renable ports and no password logins
