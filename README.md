@@ -26,6 +26,9 @@
 - finder
 - chrome
 - mail
+  - settings
+    - composing
+      - automatically cc myself: on
 - photos
 - apps
 - settings
