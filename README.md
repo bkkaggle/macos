@@ -102,3 +102,8 @@
   - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
   
   - wget: `brew install wget`
+
+
+- c++
+  - download xcode and developer tools
+  - follow https://www.devsbedevin.net/vscode-debugging-c-cpp-code-on-macos-catalina/ for debugging
