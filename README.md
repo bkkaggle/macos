@@ -107,3 +107,4 @@
 - c++
   - download xcode and developer tools
   - follow https://www.devsbedevin.net/vscode-debugging-c-cpp-code-on-macos-catalina/ for debugging
+  - `brew install cmake`
