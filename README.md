@@ -16,6 +16,8 @@
     - schedule: sunset to sunrise
 - energy saver
   - slightly dim display: off
+- security
+  - password immediately
 
 # Finder
 
