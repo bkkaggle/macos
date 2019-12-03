@@ -123,3 +123,5 @@
   - `ssh-copy-id -i ~/.ssh/mykey user@host`
   - `ssh -i ~/.ssh/mykey user@host`
   - renable ports and no password logins
+
+- mysql workbench
