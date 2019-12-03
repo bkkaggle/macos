@@ -52,6 +52,19 @@
     
 - vscode
     - get settings from settings sync
+    
+    - create `~/.prettierrc` with:
+    
+```
+{
+  "jsxSingleQuote": true,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "printWidth": 100,
+  "useTabs": true
+}
+```
 
 - git
   - installer from https://git-scm.com/downloads
