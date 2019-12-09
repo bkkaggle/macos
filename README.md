@@ -138,3 +138,5 @@
   - renable ports and no password logins
 
 - mysql workbench
+
+- wacom drivers from website
