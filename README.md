@@ -44,7 +44,9 @@
 # apps
 
 - zsh
-  - run `chsh -s /bin/zsh``
+  - run `chsh -s /bin/zsh`
+  - background: black
+  
 
 - chrome
   - sync
