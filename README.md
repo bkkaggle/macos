@@ -118,6 +118,9 @@
       - proxy: 
         - `curl -o cloud_sql_proxy https://dl.google.com/cloudsql/cloud_sql_proxy.darwin.amd64`
         - `chmod +x cloud_sql_proxy`
+        
+      - wandb:
+        - `wandb login 08283aec9b92f676724219169ea3c28cf41c85cc`
 
 - homebrew
   - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
