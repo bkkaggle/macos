@@ -121,6 +121,8 @@
         
       - wandb:
         - `wandb login 08283aec9b92f676724219169ea3c28cf41c85cc`
+        
+      - install lazynlp (https://github.com/chiphuyen/lazynlp)
 
 - homebrew
   - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
