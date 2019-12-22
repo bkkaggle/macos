@@ -147,9 +147,3 @@
 - mysql workbench
 
 - wacom drivers from website
-
-- jekyll
-  - `brew install ruby`
-  - `  echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc`
-  - `gem install --user-install bundler jekyll`
-  
