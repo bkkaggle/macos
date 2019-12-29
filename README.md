@@ -40,6 +40,8 @@
   - keyboard
     - option as meta key: on
 - pocket
+- onenote
+  - turn off dark mode
 
 # apps
 
