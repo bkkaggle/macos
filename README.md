@@ -107,7 +107,7 @@
     - `pip install tensorflow`
     - `conda install pytorch torchvision cpuonly -c pytorch`
     - `conda install pandas scikit-learn pylint`
-    - `pip install scikit-image tqdm mlcrate pytorch_zoo fire pre-commit kaggle twine wandb nltk torchtext colorama`
+    - `pip install scikit-image tqdm mlcrate pytorch_zoo fire pre-commit kaggle twine wandb nltk torchtext colorama awscli`
     
     - kaggle api
       - add api token to `/home/bilal/.kaggle/kaggle.json`
