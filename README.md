@@ -53,7 +53,11 @@
 - chrome
   - sync
     - turn off history
-    
+
+- Install fira code font
+  - https://github.com/tonsky/FiraCode/wiki/Installing
+  - https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions
+
 - vscode
     - get settings from settings sync
     
