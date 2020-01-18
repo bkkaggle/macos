@@ -57,6 +57,9 @@
 - Install fira code font
   - https://github.com/tonsky/FiraCode/wiki/Installing
   - https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions
+  
+- Install jetbrains mono font
+  - https://github.com/JetBrains/JetBrainsMono
 
 - vscode
     - get settings from settings sync
